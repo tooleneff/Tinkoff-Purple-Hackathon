@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="VisualElement" style="flex-grow: initial; max-width: 100%;">
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; align-items: stretch;">
+                <ui:Button text="&lt;&lt;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonBack" style="flex-grow: initial; flex-shrink: initial; background-color: rgb(24, 68, 156); color: rgb(11, 229, 224); font-size: 10px; padding-top: 5px; padding-right: 6px; padding-bottom: 5px; padding-left: 6px; border-left-color: rgb(11, 229, 224); border-right-color: rgb(11, 229, 224); border-top-color: rgb(11, 229, 224); border-bottom-color: rgb(11, 229, 224); margin-right: 2px;" />
+                <ui:Button text="sslakdjh sldkjfgh lqwieuy lsdjgh lkerjhg lsskdjfh glkjeh rglksjdfh gkljshd fg" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonQuizName" style="flex-grow: 1; flex-shrink: 1; background-color: rgb(24, 68, 156); font-size: 10px; padding-top: 5px; padding-right: 6px; padding-bottom: 5px; padding-left: 6px; border-left-color: rgb(11, 229, 224); border-right-color: rgb(11, 229, 224); border-top-color: rgb(11, 229, 224); border-bottom-color: rgb(11, 229, 224); color: rgb(11, 229, 224); white-space: normal; margin-left: 2px;" />
+            </ui:VisualElement>
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ButtonQuestionContent" style="background-color: rgb(24, 68, 156); color: rgb(11, 229, 224); border-left-color: rgb(11, 229, 224); border-right-color: rgb(11, 229, 224); border-top-color: rgb(11, 229, 224); border-bottom-color: rgb(11, 229, 224); font-size: 10px;" />
+            <ui:VisualElement name="VisualElement" style="flex-grow: initial; height: auto; min-height: auto;">
+                <ui:VisualElement style="flex-grow: initial; height: auto; min-height: auto; flex-direction: row; justify-content: space-around; font-size: 10px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Roboto-Regular%20SDF.asset?fileID=11400000&amp;guid=03bb625bf281b5c4bb40c1278fce39f9&amp;type=2#Roboto-Regular SDF&quot;); align-items: stretch;">
+                    <ui:Button text=" lwjkhf lwkjdgh lwkdjfgh lwkjdfh glkwjefh glkjwh erlkghw ldkfjgh wlekrjh g" parse-escape-sequences="true" display-tooltip-when-elided="true" enable-rich-text="true" style="width: 46%; white-space: normal; font-size: 10px; flex-basis: auto; text-overflow: clip; -unity-text-align: middle-center; overflow: hidden; visibility: visible; flex-wrap: wrap;" />
+                    <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 46%; font-size: 10px;" />
+                </ui:VisualElement>
+                <ui:VisualElement style="flex-grow: initial; height: initial; min-height: auto; flex-direction: row; justify-content: space-between; font-size: 10px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Roboto-Regular%20SDF.asset?fileID=11400000&amp;guid=03bb625bf281b5c4bb40c1278fce39f9&amp;type=2#Roboto-Regular SDF&quot;);">
+                    <ui:Button text=" lwjkhf lwkjdgh lwkdjfgh lwkjdfh glkwjefh glkjwh erlkghw ldkfjgh wlekrjh g" parse-escape-sequences="true" display-tooltip-when-elided="true" enable-rich-text="true" style="width: 46%; white-space: normal; font-size: 10px; flex-basis: auto; text-overflow: clip; -unity-text-align: middle-center; overflow: hidden; visibility: visible; flex-wrap: wrap;" />
+                    <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" style="width: 46%; font-size: 10px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
